@@ -21,7 +21,6 @@ Space: O(1) since the max call stack will be O(5) because in the constraint n <=
 class Solution:
     def lexicalOrder(self, n: int) -> List[int]:
         ans = []
-
         def dfs(cur):
             if cur > n:
                 return 
