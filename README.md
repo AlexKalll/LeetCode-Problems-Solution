@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
