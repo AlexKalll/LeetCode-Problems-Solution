@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2645-pass-the-pillow](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2812-find-the-maximum-achievable-number) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0609-find-duplicate-file-in-system](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0609-find-duplicate-file-in-system) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0722-remove-comments](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0722-remove-comments) |
 | [0829-subdomain-visit-count](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0829-subdomain-visit-count) |
 | [1791-richest-customer-wealth](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1791-richest-customer-wealth) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
