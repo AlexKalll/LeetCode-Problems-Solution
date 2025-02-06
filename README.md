@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0229-majority-element-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0229-majority-element-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0036-valid-sudoku) |
 | [1791-richest-customer-wealth](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1791-richest-customer-wealth) |
 ## Sorting
 |  |
