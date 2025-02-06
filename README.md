@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0722-remove-comments) |
 | [0829-subdomain-visit-count](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0829-subdomain-visit-count) |
+| [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1364-tuple-with-same-product](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1364-tuple-with-same-product) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0054-spiral-matrix) |
 | [0661-image-smoother](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0661-image-smoother) |
+| [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1791-richest-customer-wealth) |
 ## Sorting
 |  |
@@ -151,5 +154,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 | [2551-apply-operations-to-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2551-apply-operations-to-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
