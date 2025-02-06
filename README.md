@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1791-richest-customer-wealth) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1791-richest-customer-wealth) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Sorting
 |  |
 | ------- |
