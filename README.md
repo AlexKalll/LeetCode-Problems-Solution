@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2645-pass-the-pillow) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3651-transformed-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3651-transformed-array) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3651-transformed-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
