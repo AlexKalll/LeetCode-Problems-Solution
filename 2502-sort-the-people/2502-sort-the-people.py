@@ -1,16 +1,18 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
-        # using selection sort 
+        
         n = len(heights)
 
         for i in range(n):
-            smallest = i
+            swapped = False
 
-            for j in range(i+1, n):
-                if heights[j] > heights[smallest]:
-                    smallest = j
+            for j in range(1, n-i):
+                if heights[j] > heights[j-1]:
+                    heights[j], heights[j-1] = heights[j-1], heights[j]
+                    names[j], names[j-1] = names[j-1], names[j]
+                    swapped = True
 
-            heights[smallest], heights[i] = heights[i], heights[smallest]
-            names[smallest], names[i] = names[i], names[smallest]
-
+            if not swapped:
+                break
+                
         return names
