@@ -36,7 +36,7 @@ class Solution:
 
         return names
 """
-
+# usinng insertion sort 
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
         n = len(heights)
@@ -52,16 +52,8 @@ class Solution:
                 names[j + 1] = names[j]
                 j -= 1
             
-            
+            # Place the key at its correct position
             heights[j + 1] = key_height
             names[j + 1] = key_name
         
         return names
-
-
-
-        # j = i-1
-        # while j >= 0 and arr[i+1]<arr[j]:
-        #     arr[j+1] = arr[j]
-        #     j -= 1
-            
