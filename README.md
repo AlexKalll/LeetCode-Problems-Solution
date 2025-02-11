@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2645-pass-the-pillow) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3447-clear-digits) |
 | [3651-transformed-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3651-transformed-array) |
 ## Array
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2502-sort-the-people) |
+| [3447-clear-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0032-longest-valid-parentheses) |
+| [3447-clear-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
