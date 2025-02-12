@@ -21,6 +21,6 @@ class Solution:
                 while coins >= (i + m) and count[i] != 0:
                     creams += 1
                     coins -= (i + m)
-                    count[i] -= 1
+                    
         
         return creams 
