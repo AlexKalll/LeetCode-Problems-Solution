@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1791-richest-customer-wealth](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1791-richest-customer-wealth) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1961-maximum-ice-cream-bars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1961-maximum-ice-cream-bars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0948-sort-an-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0179-largest-number) |
 | [0917-boats-to-save-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0917-boats-to-save-people) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1961-maximum-ice-cream-bars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
 |  |
