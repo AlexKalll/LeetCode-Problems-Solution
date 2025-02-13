@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0609-find-duplicate-file-in-system) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0722-remove-comments) |
 | [0829-subdomain-visit-count](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0829-subdomain-visit-count) |
@@ -302,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0633-sum-of-square-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
