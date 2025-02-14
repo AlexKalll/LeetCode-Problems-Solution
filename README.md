@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0048-rotate-image) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
