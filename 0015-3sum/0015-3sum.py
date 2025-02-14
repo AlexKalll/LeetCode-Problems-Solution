@@ -1,30 +1,22 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
-        
-        ans = []
+        ans = set()
+        for i in range(len(nums)):
+            pre = nums[i]
+            l = i + 1
+            r = len(nums) - 1
+            while l < r:
+                val = pre + nums[l] + nums[r]
+                if val < 0:
+                    l +=1
+                elif val > 0:
+                    r -= 1
+                elif val ==0:
+                    ans.add((pre, nums[l], nums[r]))
+                    r -=1
+                    l += 1
+                    
+        return list(ans)
 
-        for i in range(len(nums) - 2):
-            if i> 0 and nums[i] == nums[i-1]:
-                continue
-            target = -nums[i]
-
-            left = i+ 1
-            right = len(nums) - 1
-            
-
-            while left < right:
-                curr_sum = nums[left] + nums[right]
-                if curr_sum > target:
-                    right -= 1
-                elif curr_sum < target:
-                    left += 1
-                else:
-                    ans.append([nums[i], nums[left], nums[right]])
-                    left += 1
-                    right -= 1
-                    while left < right and nums[left] == nums[left-1]:
-                        left +=1
-
-
-        return ans 
+# in list it is possible to have set, tuple etc are acceptible as a list finally...
