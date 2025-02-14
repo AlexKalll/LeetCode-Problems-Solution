@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
