@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1791-richest-customer-wealth](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1791-richest-customer-wealth) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1961-maximum-ice-cream-bars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -355,5 +356,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
