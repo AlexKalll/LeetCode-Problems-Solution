@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2502-sort-the-people) |
 | [3195-separate-black-and-white-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3195-separate-black-and-white-balls) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0032-longest-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3195-separate-black-and-white-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -394,5 +397,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
