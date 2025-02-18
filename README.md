@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0722-remove-comments) |
+| [0724-find-pivot-index](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0724-find-pivot-index) |
 | [0829-subdomain-visit-count](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0917-boats-to-save-people) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1477-product-of-the-last-k-numbers) |
