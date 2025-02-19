@@ -8,17 +8,12 @@ class Solution:
         
         dummy = ListNode()
         dummy.next = head
-        curr = head
-        prev = dummy
+        curr = dummy
         
-        while curr :
-            # jump
-            if curr.val == val:
-                prev.next = curr.next
-            
+        while curr and curr.next:
+            if curr.next.val == val:
+                curr.next = curr.next.next
             else:
-                prev = curr
-
-            curr = curr.next              
+                curr = curr.next              
 
         return dummy.next
