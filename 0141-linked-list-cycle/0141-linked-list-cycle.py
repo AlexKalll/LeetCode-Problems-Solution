@@ -6,12 +6,14 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        fast = slow = head 
-        while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
-            
-            if fast == slow:
-                return True
+        # using hare and tortoise or hash table approaches
+        hare = head 
+        tort = head 
+        
+        while hare and hare.next:
+            hare = hare.next.next
+            tort = tort.next
+            if hare == tort:
+               return True
         
         return False
