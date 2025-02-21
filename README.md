@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0347-top-k-frequent-elements) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 ## Heap (Priority Queue)
 |  |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0633-sum-of-square-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
