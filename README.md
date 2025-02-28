@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2145-grid-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2102-find-the-middle-index-in-array) |
+| [2145-grid-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2145-grid-game) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2465-shifting-letters-ii) |
 ## String
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1791-richest-customer-wealth](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2145-grid-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2145-grid-game) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Sorting
 |  |
