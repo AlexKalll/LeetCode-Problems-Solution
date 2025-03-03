@@ -5,6 +5,7 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        """
         st1 = []
         st2 = []
         
@@ -43,3 +44,30 @@ class Solution:
             curr.next = prev
         
         return curr
+        """
+        def push_to_stack(node):
+            stack = []
+            while node:
+                stack.append(node.val)
+                node = node.next
+            return stack
+        
+        stack1 = push_to_stack(l1)
+        stack2 = push_to_stack(l2)
+        
+        carry = 0
+        prev = None
+        
+        while stack1 or stack2 or carry:
+            total = carry
+            if stack1:
+                total += stack1.pop()
+            if stack2:
+                total += stack2.pop()
+                
+            carry = total // 10
+            curr = ListNode(total % 10)
+            curr.next = prev
+            prev = curr
+        
+        return prev
