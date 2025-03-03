@@ -1,7 +1,8 @@
 class Solution:
     def twoCitySchedCost(self, costs: List[List[int]]) -> int:
         n = len(costs)
-        costs.sort(key = lambda x:(x[0] -x[1]))
+        # we are gonna sort by the cost we gain or lost if we send a guy to city b i.e a-b if the more the -ve it should go to a 
+        costs.sort(key = lambda x:(x[0] - x[1]))
         
         print(costs)
         
