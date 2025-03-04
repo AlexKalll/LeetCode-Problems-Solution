@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0523-continuous-subarray-sum) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0948-sort-an-array) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0179-largest-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0917-boats-to-save-people) |
