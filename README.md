@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-backspace-string-compare) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2048-build-array-from-permutation) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0722-remove-comments) |
 | [0812-rotate-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0829-subdomain-visit-count) |
+| [0874-backspace-string-compare](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0979-di-string-match) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-backspace-string-compare) |
 | [1582-design-browser-history](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1582-design-browser-history) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0979-di-string-match) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
