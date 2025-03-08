@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1033-broken-calculator) |
 | [1095-two-city-scheduling](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1095-two-city-scheduling) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
