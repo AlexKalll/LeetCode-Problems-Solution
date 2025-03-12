@@ -18,7 +18,7 @@ class Solution:
             while nums[mon_dec[0]] - nums[mon_inc[0]] > limit:
                 if nums[l] == nums[mon_dec[0]]:
                     mon_dec.popleft()
-                elif nums[l] == nums[mon_inc[0]]:
+                if nums[l] == nums[mon_inc[0]]:
                     mon_inc.popleft()
                 
                 l += 1
