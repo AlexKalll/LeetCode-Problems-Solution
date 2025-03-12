@@ -1,12 +1,6 @@
-class Solution:
+"""class Solution:
     def trailingZeroes(self, n: int) -> int:
         
-        def factorial(n):
-            if n <= 1:
-                return 1
-            
-            return n * factorial(n-1)
-
         fact = factorial(n)
 
         ans = 0
@@ -15,6 +9,13 @@ class Solution:
             ans += 1
         
         return ans 
-        
-        
-        
+    """
+
+class Solution:
+    def trailingZeroes(self, n: int) -> int:
+        count = 0
+        while n >= 5:
+            n //= 5
+            count += n
+        return count
+
