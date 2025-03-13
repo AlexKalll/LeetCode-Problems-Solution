@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3483-alternating-groups-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3643-zero-array-transformation-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2145-grid-game) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2465-shifting-letters-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0633-sum-of-square-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
