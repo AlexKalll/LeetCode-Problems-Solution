@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0500-keyboard-row) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0739-daily-temperatures) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Doubly-Linked List
