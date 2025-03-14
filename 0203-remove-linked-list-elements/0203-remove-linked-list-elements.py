@@ -15,6 +15,6 @@ class Solution:
                 curr.next = curr.next.next
             else:
                 curr = curr.next
-
+        # print(dummy.next)
         return dummy.next
 
