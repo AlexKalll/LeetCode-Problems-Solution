@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2050-count-good-numbers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2610-closest-prime-numbers-in-range) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2050-count-good-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
