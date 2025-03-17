@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2308-divide-array-into-equal-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2465-shifting-letters-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2107-find-unique-binary-string) |
+| [2308-divide-array-into-equal-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2308-divide-array-into-equal-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
+| [2308-divide-array-into-equal-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
