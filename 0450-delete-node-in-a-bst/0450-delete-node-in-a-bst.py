@@ -7,10 +7,10 @@
 class Solution:
     def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
         def inordersuccessor(node):
-            while node.left:
-                node = node.left
-            
-            return node
+            current = node
+            while current.left:
+                current = current.left
+            return current
 
         def delete_node(node, key):
             if not node:
@@ -21,17 +21,17 @@ class Solution:
             elif key > node.val:
                 node.right = delete_node(node.right, key)
             else:
-                if not node.right:
-                    return node.left
-                elif not node.left:
+                # Node with only one child or no child
+                if not node.left:
                     return node.right
-
+                elif not node.right:
+                    return node.left
+                
+                # Node with two children: Get the inorder successor
                 successor = inordersuccessor(node.right)
-                node.val = successor.val
-                node.right = delete_node(node.right, successor.val)
-
+                node.val = successor.val  # Copy the inorder successor's value to this node
+                node.right = delete_node(node.right, successor.val)  # Delete the inorder successor
+            
             return node
 
         return delete_node(root, key)
-
-        
