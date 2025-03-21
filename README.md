@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Monotonic Stack
@@ -758,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
 | ------- |
