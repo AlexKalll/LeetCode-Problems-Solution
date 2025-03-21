@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Graph
 |  |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Union Find
 |  |
 | ------- |
