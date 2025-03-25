@@ -1,7 +1,7 @@
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
 
-        def isPossible(capacity):
+        def Yigerem(capacity):
             count = 1
             curr_sum = 0
             for num in weights:
@@ -19,7 +19,7 @@ class Solution:
         while low <= high:
             mid = (low + high) // 2
 
-            if isPossible(mid):
+            if Yigerem(mid):
                 high = mid - 1
             else:
                 low = mid + 1
