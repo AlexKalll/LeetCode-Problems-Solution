@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0292-nim-game) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0633-sum-of-square-numbers) |
