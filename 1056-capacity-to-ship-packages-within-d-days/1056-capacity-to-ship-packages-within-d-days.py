@@ -20,10 +20,9 @@ class Solution:
             mid = (low + high) // 2
 
             if isPossible(mid):
-                least_cap = mid
                 high = mid - 1
             else:
                 low = mid + 1
 
-        return least_cap
+        return low 
             
