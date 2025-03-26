@@ -1,16 +1,19 @@
 class Solution:
-    def findDifferentBinaryString(self, nums):
-        n = len(nums)
-        ans = "0" * n  # Start with "000...0"
+    def findDifferentBinaryString(self, nums: List[str]) -> str:
         
-        if ans not in nums:
-            return ans
+        def backtrack(curr):
+            if len(curr) == len(nums):
+                if ''.join(curr) not in nums:
+                    return ''.join(curr)
+                return ''
+
+            for bit in '01':
+                curr.append(bit)
+                ans = backtrack(curr)
+                if ans:
+                    return ans
+                curr.pop()
+
+            return ''
         
-        ans = list(ans)
-        for i in range(n):
-            ans[i] = '1'  # Try flipping one bit at a time
-            if "".join(ans) not in nums:
-                return "".join(ans)
-            ans[i] = '0'  # Revert back if needed
-        
-        return "".join(ans)  # Fallback case
+        return backtrack([])
