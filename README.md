@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1651-shuffle-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1720-crawler-log-folder) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0077-combinations) |
 | [1160-letter-tile-possibilities](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2107-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2107-find-unique-binary-string) |
