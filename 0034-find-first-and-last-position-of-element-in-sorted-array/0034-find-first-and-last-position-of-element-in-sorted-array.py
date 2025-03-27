@@ -1,4 +1,4 @@
-class Solution:
+"""class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
         left = 0
         right = len(nums) - 1
@@ -22,3 +22,13 @@ class Solution:
 
         return [-1, -1]
 
+"""
+class Solution:
+    def searchRange(self, nums: List[int], target: int) -> List[int]:
+        first = bisect_left(nums, target)
+        last = bisect_right(nums, target)
+
+        if target in nums:
+            return [first, last-1]
+        
+        return [-1, -1]
