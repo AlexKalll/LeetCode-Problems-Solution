@@ -22,10 +22,12 @@ class Solution:
                 return
             
             for col in range(n):
-                if can_draw(row, col):
-                    board[row][col] = 'Q'
-                    backtrack(row + 1)      
-                    board[row][col] = '.'
+                if not can_draw(row, col):
+                    continue
+                    
+                board[row][col] = 'Q'
+                backtrack(row + 1)      
+                board[row][col] = '.'
 
         board = [['.' for _ in range(n)] for _ in range(n)]
         backtrack(0)
