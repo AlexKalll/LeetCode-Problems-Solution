@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify arr in-place instead.
         """
+        # inplace
         i = 0
         while i < len(arr):
             if arr[i] == 0:
