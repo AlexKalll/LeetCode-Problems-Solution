@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
