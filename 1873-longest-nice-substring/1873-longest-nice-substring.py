@@ -13,10 +13,13 @@ class Solution:
                     left = dvqr(s[:i])
                     right = dvqr(s[i + 1:])
 
+                    """
                     if len(left) >= len(right):
                         return left
                     return right 
-                
+                """
+                    return max(left, right, key=len)
+                    
             return s  
 
         return dvqr(s)
