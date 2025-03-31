@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0077-combinations) |
 | [1160-letter-tile-possibilities](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1381-maximum-score-words-formed-by-letters) |
