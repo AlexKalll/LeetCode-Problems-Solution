@@ -1,21 +1,25 @@
 class Solution:
     def minZeroArray(self, nums: List[int], queries: List[List[int]]) -> int:
         n = len(nums)
-        sum_value = 0
-        query_count = 0
-        diff_array = [0] * (n + 1)
+        sum_val = 0
+        k = 0
+        diff_arr = [0] * (n + 1)
 
         for i in range(n):
-            while sum_value + diff_array[i] < nums[i]:
-                query_count += 1
-                if query_count > len(queries):
+            while sum_val + diff_arr[i] < nums[i]:
+                k += 1
+                if k > len(queries):
                     return -1
-                left, right, value = queries[query_count - 1]
-                if right >= i:
-                    diff_array[max(left, i)] += value
-                    if right + 1 < len(diff_array):
-                        diff_array[right + 1] -= value
-            sum_value += diff_array[i]
 
-            
-        return query_count
+                left, right, val = queries[k-1]
+
+                if right >= i:
+                    diff_arr[max(left, i)] += val
+
+                    if right + 1 < len(diff_arr):
+                        diff_arr[right + 1] -= val
+
+            sum_val += diff_arr[i]
+
+        # print(diff_arr)
+        return k
