@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0093-restore-ip-addresses) |
 | [0179-largest-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
+| [0306-additive-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0306-additive-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0093-restore-ip-addresses) |
+| [0306-additive-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0306-additive-number) |
 | [1160-letter-tile-possibilities](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
