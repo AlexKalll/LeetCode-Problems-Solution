@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1018-largest-perimeter-triangle) |
+| [1020-longest-turbulent-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1020-longest-turbulent-subarray) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1095-two-city-scheduling) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0943-sum-of-subarray-minimums) |
+| [1020-longest-turbulent-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1020-longest-turbulent-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1170-shortest-common-supersequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0966-binary-subarrays-with-sum) |
+| [1020-longest-turbulent-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1020-longest-turbulent-subarray) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
