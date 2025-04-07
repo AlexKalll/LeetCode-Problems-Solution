@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2502-sort-the-people) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3055-maximum-odd-binary-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3447-clear-digits) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3483-alternating-groups-ii) |
 ## Data Stream
