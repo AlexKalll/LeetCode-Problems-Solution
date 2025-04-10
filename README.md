@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0274-h-index) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0498-diagonal-traverse) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -915,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
