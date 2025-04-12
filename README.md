@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1020-longest-turbulent-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1020-longest-turbulent-subarray) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1039-find-the-town-judge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1023-time-based-key-value-store) |
+| [1039-find-the-town-judge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1160-letter-tile-possibilities) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
