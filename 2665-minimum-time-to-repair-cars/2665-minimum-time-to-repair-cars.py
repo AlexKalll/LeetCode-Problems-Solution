@@ -1,10 +1,10 @@
 class Solution:
     def repairCars(self, ranks: List[int], cars: int) -> int:
         
-        def canRepairInTime(T: int) -> bool:
+        def canRepairInTime(time):
             total_cars_repaired = 0
             for rank in ranks:
-                total_cars_repaired += int(math.sqrt(T // rank))
+                total_cars_repaired += int(math.sqrt(time // rank))
                 if total_cars_repaired >= cars:
                     return True
             return total_cars_repaired >= cars
