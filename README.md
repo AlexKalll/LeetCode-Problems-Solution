@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0134-gas-station) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0093-restore-ip-addresses) |
 | [0179-largest-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0306-additive-number) |
 | [1160-letter-tile-possibilities](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1160-letter-tile-possibilities) |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
