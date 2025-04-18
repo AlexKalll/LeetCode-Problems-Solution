@@ -1,5 +1,6 @@
 class Solution:
     def maximumCandies(self, candies: List[int], k: int) -> int:
+        n = len(candies)
         left, right = 1, max(candies)
         result = 0
         
@@ -8,9 +9,9 @@ class Solution:
             count = sum(candy // mid for candy in candies)
 
             if count >= k:
-                result = mid  # We can satisfy at least k children
-                left = mid + 1  # Try for a larger number of candies
+                result = mid  
+                left = mid + 1  
             else:
-                right = mid - 1  # Try for a smaller number of candies
+                right = mid - 1 
 
         return result
