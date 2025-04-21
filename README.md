@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2102-find-the-middle-index-in-array) |
 | [2145-grid-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2249-count-the-hidden-sequences) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2465-shifting-letters-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
