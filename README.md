@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0722-remove-comments](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0739-daily-temperatures) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1791-richest-customer-wealth](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1791-richest-customer-wealth) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -886,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -976,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2793-count-the-number-of-complete-components) |
