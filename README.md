@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0306-additive-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0500-keyboard-row) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
@@ -889,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
@@ -925,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [1039-find-the-town-judge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -963,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1325-path-with-maximum-probability) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Monotonic Queue
@@ -983,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
