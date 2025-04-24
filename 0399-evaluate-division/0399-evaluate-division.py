@@ -1,6 +1,6 @@
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
-        graph = defaultdict(dict)
+        graph = defaultdict(dict) #
         
         for (a, b), value in zip(equations, values):
             graph[a][b] = value
@@ -28,4 +28,4 @@ class Solution:
             result = dfs(c, d, visited)
             results.append(result)
         
-        return results
+        return results 
