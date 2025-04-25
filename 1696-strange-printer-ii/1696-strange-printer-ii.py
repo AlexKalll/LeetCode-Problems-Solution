@@ -3,7 +3,7 @@ class Solution:
         n, m = len(targetGrid), len(targetGrid[0])
         boundaries = defaultdict(lambda : [float('inf'), -1, float('inf'), -1])  # left, right, top, bottom
 
-        # Step 1: Find boundaries for each color
+        #  Find boundaries for each color
         for r in range(n):
             for c in range(m):
                 color = targetGrid[r][c]
@@ -12,7 +12,7 @@ class Solution:
                 boundaries[color][2] = min(boundaries[color][2], r)  # top
                 boundaries[color][3] = max(boundaries[color][3], r)  # bottom
 
-        # Step 2: Build the graph of dependencies
+        # Build the graph of dependencies
         graph = defaultdict(set)
         incoming = defaultdict(int)
 
@@ -25,7 +25,7 @@ class Solution:
                         graph[color].add(other_color)
                         incoming[other_color] += 1
 
-        # Step 3: Topological Sort (Kahn’s Algorithm)
+        # Topological Sort (Kahn’s Algorithm)
         q = deque()
         for color in boundaries:
             if incoming[color] == 0:
