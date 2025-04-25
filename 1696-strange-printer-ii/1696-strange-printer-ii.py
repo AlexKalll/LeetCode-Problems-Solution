@@ -3,7 +3,7 @@ class Solution:
         n, m = len(targetGrid), len(targetGrid[0])
         boundaries = defaultdict(lambda : [float('inf'), -1, float('inf'), -1])  # left, right, top, bottom
 
-        #  Find boundaries for each color
+        #  Find boundaries for each color #
         for r in range(n):
             for c in range(m):
                 color = targetGrid[r][c]
