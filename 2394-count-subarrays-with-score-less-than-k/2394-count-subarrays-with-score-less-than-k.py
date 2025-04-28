@@ -8,12 +8,12 @@ class Solution:
             prefix_sum[index + 1] = prefix_sum[index] + nums[index]
         
         count = 0
-        left = 0
+        right = 0  # Renamed from j to right
         
         # Use sliding window to count valid subarrays
-        for right in range(n):
-            while left < n and (prefix_sum[left + 1] - prefix_sum[right]) * (left - right + 1) < k:
-                left += 1
-            count += left - right
+        for left in range(n): 
+            while right < n and (prefix_sum[right + 1] - prefix_sum[left]) * (right - left + 1) < k:
+                right += 1
+            count += right - left
         
         return count
