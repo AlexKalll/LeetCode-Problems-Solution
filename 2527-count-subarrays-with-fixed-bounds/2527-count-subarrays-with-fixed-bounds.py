@@ -1,6 +1,6 @@
 class Solution:
     def countSubarrays(self, nums: List[int], minK: int, maxK: int) -> int:
-        n = len(nums) #
+        n = len(nums)
         count = 0
         left = 0
         last_minK = -1
