@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0969-number-of-recent-calls) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1325-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1582-design-browser-history) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -935,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1004,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Union Find
 |  |
