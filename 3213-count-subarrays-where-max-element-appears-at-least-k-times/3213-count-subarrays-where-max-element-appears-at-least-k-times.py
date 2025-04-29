@@ -7,7 +7,7 @@ class Solution:
 
         for right in range(len(nums)):
             count += 1 if nums[right] == largest else 0
-            while count >= k:
+            while count == k:
                 ans += (len(nums) - right)
                 if nums[left] == largest:
                     count -= 1
