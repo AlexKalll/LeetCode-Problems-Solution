@@ -895,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0310-minimum-height-trees](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
+| [0310-minimum-height-trees](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0881-loud-and-rich](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1039-find-the-town-judge) |
@@ -992,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0310-minimum-height-trees) |
 | [0881-loud-and-rich](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1696-strange-printer-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1696-strange-printer-ii) |
