@@ -5,7 +5,9 @@ class UnionFind:
 
     def find(self, x):
         if x != self.root[x]:
-            x = self.find(self.root[x])
+            self.root[x] = self.find(self.root[x])
+            x = self.root[x]
+        
         return x
 
     def union(self, x, y):
