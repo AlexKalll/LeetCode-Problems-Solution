@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0829-subdomain-visit-count) |
+| [0868-push-dominoes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0979-di-string-match) |
 | [1023-time-based-key-value-store](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1023-time-based-key-value-store) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
+| [0868-push-dominoes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1020-longest-turbulent-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1020-longest-turbulent-subarray) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
+| [0868-push-dominoes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0979-di-string-match) |
