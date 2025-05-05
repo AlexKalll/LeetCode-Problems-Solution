@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0368-largest-divisible-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0868-push-dominoes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0868-push-dominoes) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0633-sum-of-square-numbers) |
