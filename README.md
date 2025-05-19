@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0733-flood-fill) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0609-find-duplicate-file-in-system) |
 | [0645-set-mismatch](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0829-subdomain-visit-count) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0609-find-duplicate-file-in-system) |
 | [0680-valid-palindrome-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0722-remove-comments) |
 | [0768-partition-labels](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0812-rotate-string) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0917-boats-to-save-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -984,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0881-loud-and-rich) |
@@ -1014,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0871-keys-and-rooms) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1133,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
