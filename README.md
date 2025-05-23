@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3637-count-number-of-balanced-permutations) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3430-count-days-without-meetings) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2478-longest-nice-subarray) |
 | [2621-find-xor-beauty-of-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2621-find-xor-beauty-of-array) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -839,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3195-separate-black-and-white-balls) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3647-zero-array-transformation-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3647-zero-array-transformation-iii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -991,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
