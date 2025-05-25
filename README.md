@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0525-contiguous-array) |
 | [0529-minesweeper](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0605-can-place-flowers) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0733-flood-fill) |
@@ -1051,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
