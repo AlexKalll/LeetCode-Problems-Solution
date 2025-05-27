@@ -1,14 +1,11 @@
 class Solution:
-    def minOperations(self, nums, k):
-        
-        heapify (nums)
-        ans  = 0
-        x = heappop(nums)
-        
-        while x < k:
-            y = heappop(nums)
-            nxt = 2*x + y
-            x = heappushpop(nums, nxt) # it pops the smallest num x before pushing nxt
-            ans+= 1
-
-        return ans
+    def minOperations(self, nums: List[int], k: int) -> int:
+        heapq.heapify(nums)
+        ops = 0
+        while nums[0] < k:
+            x = heapq.heappop(nums)
+            y = heapq.heappop(nums)
+            new_elem = min(x, y) * 2 + max(x, y)
+            heapq.heappush(nums, new_elem)
+            ops += 1
+        return ops
