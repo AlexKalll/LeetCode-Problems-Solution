@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1020-longest-turbulent-subarray) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1032-satisfiability-of-equality-equations) |
+| [1036-rotting-oranges](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
+| [1036-rotting-oranges](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1036-rotting-oranges) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1696-strange-printer-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1696-strange-printer-ii) |
@@ -1077,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0871-keys-and-rooms) |
 | [0960-minimize-malware-spread](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0960-minimize-malware-spread) |
+| [1036-rotting-oranges](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
