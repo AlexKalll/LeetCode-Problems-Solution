@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0948-sort-an-array) |
 | [0960-minimize-malware-spread](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0966-binary-subarrays-with-sum) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
+| [0945-snakes-and-ladders](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1036-rotting-oranges) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0960-minimize-malware-spread) |
 | [1036-rotting-oranges](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
