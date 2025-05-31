@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0229-majority-element-ii) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0287-find-the-duplicate-number) |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -957,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
