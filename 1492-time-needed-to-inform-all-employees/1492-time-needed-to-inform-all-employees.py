@@ -9,4 +9,5 @@ class Solution:
         for idx in range(len(manager)):
             calculateTime(idx)
 
+
         return max(informTime)
