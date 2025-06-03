@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1364-tuple-with-same-product) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1097,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1147,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1325-path-with-maximum-probability) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1696-strange-printer-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1696-strange-printer-ii) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
