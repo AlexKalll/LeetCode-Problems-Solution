@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1696-strange-printer-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1696-strange-printer-ii) |
+| [1706-min-cost-to-connect-all-points](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1720-crawler-log-folder) |
 | [1762-furthest-building-you-can-reach](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1762-furthest-building-you-can-reach) |
 | [1783-ways-to-make-a-fair-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1783-ways-to-make-a-fair-array) |
@@ -1154,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1696-strange-printer-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1696-strange-printer-ii) |
+| [1706-min-cost-to-connect-all-points](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
@@ -1234,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1706-min-cost-to-connect-all-points](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2793-count-the-number-of-complete-components) |
@@ -1278,4 +1281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
