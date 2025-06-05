@@ -1,4 +1,4 @@
-class UnionFind:
+class UnionFind: #
     def __init__(self, nodes):
         self.root = {node: node for node in nodes}
 
