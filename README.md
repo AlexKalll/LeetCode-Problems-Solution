@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0661-image-smoother) |
+| [0690-employee-importance](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0722-remove-comments) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0609-find-duplicate-file-in-system) |
 | [0645-set-mismatch](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0797-rabbits-in-forest) |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0690-employee-importance](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1051,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0733-flood-fill) |
@@ -1090,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0733-flood-fill) |
