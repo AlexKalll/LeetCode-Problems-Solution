@@ -10,7 +10,7 @@ class Employee:
 class Solution:
     def getImportance(self, employees: List['Employee'], id: int) -> int:
         d = {j.id:i for i, j in enumerate(employees)}
-        s = [id] 
+        s = [id] #stack
         ans = 0
 
         while(s):
