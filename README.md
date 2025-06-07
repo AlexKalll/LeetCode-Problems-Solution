@@ -373,7 +373,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
-| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -490,7 +489,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3243-count-the-number-of-powerful-integers) |
-| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -556,7 +554,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3001-apply-operations-to-maximize-score) |
-| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
@@ -804,7 +801,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
-| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3647-zero-array-transformation-iii) |
@@ -886,7 +882,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3195-separate-black-and-white-balls) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3351-maximize-happiness-of-selected-children) |
-| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3647-zero-array-transformation-iii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Binary Search
