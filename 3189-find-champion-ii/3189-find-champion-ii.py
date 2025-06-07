@@ -2,7 +2,7 @@ class Solution:
     def findChampion(self, n: int, edges: List[List[int]]) -> int:
         count = defaultdict(int)
 
-        for u, v in edges: # traverse over the graph
+        for u, v in edges: # traverse over graph
             count[v] += 1
 
         ans, parentCount = 0, 0
