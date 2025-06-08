@@ -1071,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0881-loud-and-rich) |
+| [0922-possible-bipartition](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0960-minimize-malware-spread) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1110,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0960-minimize-malware-spread) |
 | [1036-rotting-oranges](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1036-rotting-oranges) |
@@ -1162,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0881-loud-and-rich) |
+| [0922-possible-bipartition](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0960-minimize-malware-spread) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1039-find-the-town-judge) |
@@ -1248,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0960-minimize-malware-spread) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
