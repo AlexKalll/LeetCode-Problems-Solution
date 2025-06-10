@@ -1,6 +1,6 @@
 class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
-        output=[""]
+        output=[""] #
         for i in s:
             tmp=[]
             if i.isalpha():
