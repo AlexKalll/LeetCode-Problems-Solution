@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1582-design-browser-history) |
 | [1905-design-authentication-manager](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1905-design-authentication-manager) |
+| [1955-seat-reservation-manager](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1955-seat-reservation-manager) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Randomized
 |  |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1762-furthest-building-you-can-reach](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1762-furthest-building-you-can-reach) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1955-seat-reservation-manager](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1955-seat-reservation-manager) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2681-put-marbles-in-bags) |
