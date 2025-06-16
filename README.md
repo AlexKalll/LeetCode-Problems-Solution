@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1033-broken-calculator) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0542-01-matrix) |
+| [0650-2-keys-keyboard](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0650-2-keys-keyboard) |
 | [0806-domino-and-tromino-tiling](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
