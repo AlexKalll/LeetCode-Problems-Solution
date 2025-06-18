@@ -1,5 +1,5 @@
 class Solution:
-    def checkSubarraySum(self, nums: List[int], k: int) -> bool:#
+    def checkSubarraySum(self, nums: List[int], k: int) -> bool:##
         
         mod_map = {0: -1}
         prefix = 0
