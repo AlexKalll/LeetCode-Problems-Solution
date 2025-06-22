@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2737-row-with-maximum-ones) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3001-apply-operations-to-maximize-score) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3483-alternating-groups-ii) |
