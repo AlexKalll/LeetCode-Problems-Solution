@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -960,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1772-create-sorted-array-through-instructions](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1772-create-sorted-array-through-instructions) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2280-count-good-triplets-in-an-array) |
