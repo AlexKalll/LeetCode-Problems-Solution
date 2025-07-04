@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3483-alternating-groups-ii) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1022,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3483-alternating-groups-ii) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Data Stream
 |  |
