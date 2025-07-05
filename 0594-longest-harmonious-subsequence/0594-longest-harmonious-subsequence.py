@@ -1,4 +1,4 @@
-class Solution:
+class Solution:#
     def findLHS(self, nums):
         nums.sort()
         j = 0
