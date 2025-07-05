@@ -1,6 +1,6 @@
 class Solution:
     def resultsArray(self, nums: List[int], k: int) -> List[int]:
-        if k == 1:
+        if k == 1:#
             return nums
         ans, cnt = [], 1
         for i, (x, y) in enumerate(pairwise(nums), 2):
