@@ -231,7 +231,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
-| [1995-finding-pairs-with-a-certain-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2048-build-array-from-permutation) |
@@ -382,7 +381,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-design-authentication-manager](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
-| [1995-finding-pairs-with-a-certain-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2107-find-unique-binary-string) |
@@ -676,7 +674,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1582-design-browser-history) |
 | [1905-design-authentication-manager](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1905-design-authentication-manager) |
 | [1955-seat-reservation-manager](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1955-seat-reservation-manager) |
-| [1995-finding-pairs-with-a-certain-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Randomized
 |  |
