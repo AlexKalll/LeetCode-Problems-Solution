@@ -201,7 +201,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1477-product-of-the-last-k-numbers) |
-| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -749,7 +748,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1095-two-city-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1354-find-players-with-zero-or-one-losses) |
-| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1675-magnetic-force-between-two-balls) |
@@ -871,7 +869,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1325-path-with-maximum-probability) |
-| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1762-furthest-building-you-can-reach](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1762-furthest-building-you-can-reach) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -948,7 +945,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1095-two-city-scheduling) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
-| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
