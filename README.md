@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1317,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1391,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Enumeration
 |  |
 | ------- |
