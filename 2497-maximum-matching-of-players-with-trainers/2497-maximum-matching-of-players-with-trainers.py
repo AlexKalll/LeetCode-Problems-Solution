@@ -1,4 +1,4 @@
-class Solution:
+class Solution:#
     def matchPlayersAndTrainers(self, players: List[int], trainers: List[int]) -> int:
         n = len(players)
         m = len(trainers)
