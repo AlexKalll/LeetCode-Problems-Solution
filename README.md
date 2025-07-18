@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2308-divide-array-into-equal-pairs) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1955-seat-reservation-manager](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1955-seat-reservation-manager) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
