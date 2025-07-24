@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2465-shifting-letters-ii) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2621-find-xor-beauty-of-array) |
@@ -1191,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1237,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2793-count-the-number-of-complete-components) |
