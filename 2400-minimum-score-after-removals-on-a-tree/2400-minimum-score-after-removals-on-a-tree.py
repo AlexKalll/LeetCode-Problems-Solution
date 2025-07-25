@@ -1,6 +1,6 @@
 class Solution:
     def minimumScore(self, nums: List[int], edges: List[List[int]]) -> int:
-        size = len(nums)                        # number of nodes
+        size = len(nums)                        # number of node
         tin = [0 for i in range(size)]          # tin[i] : time at which we entered in dfs for node i
         tout = [0 for i in range(size)]         # tout[i] : time at which we moved out from dfs for node i
         subXor = [0 for i in range(size)]       # subXor[i] : xor of the tree rooted at node i
