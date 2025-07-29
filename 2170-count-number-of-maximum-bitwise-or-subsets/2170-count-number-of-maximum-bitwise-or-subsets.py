@@ -2,7 +2,7 @@ class Solution:
     def countMaxOrSubsets(self, nums: List[int]) -> int:
         subsets = []
         def backtrack(start, path):
-            if path: # this helps not to append the empty set 
+            if path: # ths helps not to append the empty set 
                 subsets.append(path.copy())
             for i in range(start, len(nums)):
                 backtrack(i+1, path + [nums[i]])
