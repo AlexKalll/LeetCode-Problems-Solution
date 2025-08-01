@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0135-candy) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0368-largest-divisible-subset) |
