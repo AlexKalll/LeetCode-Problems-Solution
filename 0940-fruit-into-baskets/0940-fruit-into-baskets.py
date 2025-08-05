@@ -1,4 +1,4 @@
-class Solution:
+class Solution:#
     def totalFruit(self, fruits: List[int]) -> int:
         left, max_len = 0, 0
         fruit_count = defaultdict(int)
