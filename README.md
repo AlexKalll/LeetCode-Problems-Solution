@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1086,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3791-fruits-into-baskets-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1397,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3791-fruits-into-baskets-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -1509,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3791-fruits-into-baskets-iii) |
 ## Memoization
 |  |
 | ------- |
