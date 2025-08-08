@@ -7,7 +7,7 @@ class Solution:##
         for i in range(2):
             for j in range(n):
                 row_prefix[i][j] = (grid[i][j] + (row_prefix[i][j-1] if row_prefix[i][j-1] else 0))
-        # print(row_prefix)
+        #print(row_prefix)
         ans = float('inf')
         for i in range(n):
             if i - 1 >= 0:
