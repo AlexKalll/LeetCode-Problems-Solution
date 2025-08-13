@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1201,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
