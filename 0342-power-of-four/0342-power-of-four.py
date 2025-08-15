@@ -1,4 +1,4 @@
-class Solution:
+"""class Solution:
     def isPowerOfFour(self, n: int) -> bool:
         if n <= 0:
             return False
@@ -11,3 +11,15 @@ class Solution:
         
 
         return self.isPowerOfFour(n // 4)
+"""
+# iterative way
+class Solution:
+    def isPowerOfFour(self, n: int) -> bool:
+        if n <= 0:
+            return False
+        
+        
+        while n % 4 == 0:
+            n //= 4
+            
+        return n == 1
