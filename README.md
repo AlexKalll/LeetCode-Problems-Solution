@@ -22,7 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0650-2-keys-keyboard) |
-| [0679-24-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0867-new-21-game) |
@@ -164,7 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0661-image-smoother) |
-| [0679-24-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
@@ -1165,7 +1163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0093-restore-ip-addresses) |
 | [0282-expression-add-operators](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0306-additive-number) |
-| [0679-24-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1381-maximum-score-words-formed-by-letters) |
