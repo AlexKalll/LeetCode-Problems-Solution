@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2280-count-good-triplets-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1501,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3001-apply-operations-to-maximize-score) |
