@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
