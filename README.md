@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0282-expression-add-operators) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0093-restore-ip-addresses) |
 | [0165-compare-version-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0282-expression-add-operators) |
