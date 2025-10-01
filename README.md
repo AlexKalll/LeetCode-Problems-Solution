@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-water-bottles](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1642-water-bottles](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
