@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0407-trapping-rain-water-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0529-minesweeper) |
@@ -1063,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0948-sort-an-array) |
@@ -1442,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0529-minesweeper) |
