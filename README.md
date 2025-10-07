@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1603-running-sum-of-1d-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1873-longest-nice-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1873-longest-nice-substring) |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1612-avoid-flood-in-the-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1612-avoid-flood-in-the-city) |
 | [1762-furthest-building-you-can-reach](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1762-furthest-building-you-can-reach) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1917-maximum-average-pass-ratio) |
@@ -1169,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1612-avoid-flood-in-the-city) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1762-furthest-building-you-can-reach](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1762-furthest-building-you-can-reach) |
@@ -1222,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1612-avoid-flood-in-the-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1772-create-sorted-array-through-instructions](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1772-create-sorted-array-through-instructions) |
