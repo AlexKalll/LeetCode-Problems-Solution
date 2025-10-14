@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
