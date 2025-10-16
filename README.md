@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2621-find-xor-beauty-of-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2621-find-xor-beauty-of-array) |
 | [2645-pass-the-pillow](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2812-find-the-maximum-achievable-number) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2621-find-xor-beauty-of-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2621-find-xor-beauty-of-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2681-put-marbles-in-bags](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2681-put-marbles-in-bags) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2689-rearranging-fruits) |
@@ -1215,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
