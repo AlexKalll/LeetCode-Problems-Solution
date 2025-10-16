@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0136-single-number) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0146-lru-cache) |
@@ -1649,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0547-number-of-provinces) |
