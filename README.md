@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1651-shuffle-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1675-magnetic-force-between-two-balls) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1582-design-browser-history) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1234,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1762-furthest-building-you-can-reach](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1762-furthest-building-you-can-reach) |
@@ -1633,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3001-apply-operations-to-maximize-score) |
 ## Ordered Set
 |  |
