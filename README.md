@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2621-find-xor-beauty-of-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2621-find-xor-beauty-of-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2915-count-of-interesting-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3827-implement-router](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3827-implement-router) |
@@ -1272,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2689-rearranging-fruits) |
@@ -1326,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1365,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
