@@ -188,7 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
-| [0474-ones-and-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0498-diagonal-traverse) |
@@ -656,7 +655,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0451-sort-characters-by-frequency) |
-| [0474-ones-and-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -762,7 +760,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0416-partition-equal-subset-sum) |
-| [0474-ones-and-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0650-2-keys-keyboard) |
