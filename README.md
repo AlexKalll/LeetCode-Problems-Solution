@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0724-find-pivot-index) |
