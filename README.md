@@ -247,7 +247,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1018-largest-perimeter-triangle) |
-| [1018-binary-prefix-divisible-by-5](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-longest-turbulent-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1020-longest-turbulent-subarray) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1032-satisfiability-of-equality-equations) |
@@ -1163,7 +1162,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
-| [1018-binary-prefix-divisible-by-5](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1435-xor-queries-of-a-subarray) |
