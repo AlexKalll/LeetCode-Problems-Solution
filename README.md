@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2102-find-the-middle-index-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
