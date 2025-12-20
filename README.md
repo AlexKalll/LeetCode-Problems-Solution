@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0948-sort-an-array) |
 | [0960-minimize-malware-spread](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0960-minimize-malware-spread) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0829-subdomain-visit-count) |
 | [0868-push-dominoes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-backspace-string-compare) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0979-di-string-match](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0979-di-string-match) |
 | [1006-vowel-spellchecker](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1023-time-based-key-value-store) |
