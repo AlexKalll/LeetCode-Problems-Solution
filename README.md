@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0829-subdomain-visit-count) |
 | [0830-largest-triangle-area](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0859-design-circular-deque](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 | [0881-loud-and-rich](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0881-loud-and-rich) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0829-subdomain-visit-count) |
+| [0840-magic-squares-in-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1049,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0999-regions-cut-by-slashes) |
