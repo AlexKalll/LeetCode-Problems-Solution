@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0172-factorial-trailing-zeroes) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0079-word-search) |
