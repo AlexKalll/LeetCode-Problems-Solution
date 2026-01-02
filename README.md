@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-minimize-malware-spread](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0960-minimize-malware-spread) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0979-di-string-match) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0940-fruit-into-baskets) |
 | [0960-minimize-malware-spread](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0960-minimize-malware-spread) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0999-regions-cut-by-slashes) |
 | [1006-vowel-spellchecker](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1006-vowel-spellchecker) |
