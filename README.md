@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1783-ways-to-make-a-fair-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1895-largest-magic-square](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2102-find-the-middle-index-in-array) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-strange-printer-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1696-strange-printer-ii) |
 | [1791-richest-customer-wealth](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
