@@ -1320,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0756-pyramid-transition-matrix) |
@@ -1642,6 +1643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0093-restore-ip-addresses) |
 | [0282-expression-add-operators](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0306-additive-number) |
+| [0401-binary-watch](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0800-letter-case-permutation) |
