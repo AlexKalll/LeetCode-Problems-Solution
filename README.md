@@ -1323,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
