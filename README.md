@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0722-remove-comments) |
 | [0756-pyramid-transition-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0812-rotate-string) |
@@ -1178,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0721-accounts-merge) |
 | [0757-set-intersection-size-at-least-two](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0948-sort-an-array) |
@@ -1258,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0948-sort-an-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1772-create-sorted-array-through-instructions) |
