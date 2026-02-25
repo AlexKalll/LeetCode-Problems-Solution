@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1364-tuple-with-same-product) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1390-four-divisors](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1390-four-divisors) |
@@ -1041,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1364-tuple-with-same-product) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1193,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1339,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
