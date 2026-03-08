@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-design-authentication-manager](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [1980-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -1689,6 +1692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [1980-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
