@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1783-ways-to-make-a-fair-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -1162,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-strange-printer-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1696-strange-printer-ii) |
 | [1791-richest-customer-wealth](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1876-map-of-highest-peak) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1975-maximum-matrix-sum) |
@@ -1233,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1961-maximum-ice-cream-bars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2054-two-best-non-overlapping-events) |
@@ -1418,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1612-avoid-flood-in-the-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1612-avoid-flood-in-the-city) |
 | [1762-furthest-building-you-can-reach](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1762-furthest-building-you-can-reach) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1955-seat-reservation-manager) |
