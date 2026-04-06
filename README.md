@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-backspace-string-compare) |
+| [0874-walking-robot-simulation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-walking-robot-simulation) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0859-design-circular-deque](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-walking-robot-simulation) |
 | [0881-loud-and-rich](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0829-subdomain-visit-count) |
 | [0840-magic-squares-in-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
