@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -921,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2502-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2669-find-the-substring-with-maximum-cost) |
