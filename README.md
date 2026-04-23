@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2621-find-xor-beauty-of-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2621-find-xor-beauty-of-array) |
 | [2625-increment-submatrices-by-one](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2625-increment-submatrices-by-one) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2615-sum-of-distances](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2615-sum-of-distances) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2906-construct-product-matrix) |
