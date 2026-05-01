@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0523-continuous-subarray-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0474-ones-and-zeroes) |
