@@ -873,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0829-subdomain-visit-count) |
@@ -1117,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0812-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Queue
