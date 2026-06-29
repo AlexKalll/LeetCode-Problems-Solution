@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1961-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1980-find-unique-binary-string) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1980-find-unique-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
