@@ -1,27 +1,27 @@
 class Solution:
     def findSafeWalk(self, grid: List[List[int]], health: int) -> bool:
+
+        @lru_cache(None)
+        def dp(x: int, y: int, health_used: int)-> int: 
+
+            if health_used == health or (x, y) not in eligible: return inf
+
+            cnt = health_used + grid[x][y]
+            if (x, y) == (m - 1 , n - 1): return cnt
+            
+            eligible.discard((x, y))
+
+            res = min(dp(x + 1, y, cnt), dp(x, y + 1, cnt),
+                      dp(x - 1, y, cnt), dp(x, y - 1, cnt))
+
+            eligible.add((x, y))
+
+            return res
+
+
         m, n = len(grid), len(grid[0])
+        eligible = set(product(range(m), range(n)))
 
-        dist = [[float('inf')] * n for _ in range(m)]
-        dist[0][0] = grid[0][0]
-
-        dq = deque([(0, 0)])
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-
-        while dq:
-            r, c = dq.popleft()
-
-            for dr, dc in directions:
-                nr, nc = r + dr, c + dc
-
-                if 0 <= nr < m and 0 <= nc < n:
-                    new_cost = dist[r][c] + grid[nr][nc]
-
-                    if new_cost < dist[nr][nc]:
-                        dist[nr][nc] = new_cost
-                        if grid[nr][nc] == 0:
-                            dq.appendleft((nr, nc))
-                        else:
-                            dq.append((nr, nc))
-
-        return dist[m - 1][n - 1] < health
+        return dp(0,0,0) < health        
+        
+        
