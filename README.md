@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3838-weighted-word-mapping](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -1517,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1594,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -2329,6 +2334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
 |  |
 | ------- |
