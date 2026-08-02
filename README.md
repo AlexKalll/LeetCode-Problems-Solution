@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1018-largest-perimeter-triangle) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0861-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0877-stone-game) |
 | [0881-loud-and-rich](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0943-sum-of-subarray-minimums) |
@@ -1750,6 +1753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0877-stone-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3462-vowels-game-in-a-string) |
 ## Merge Sort
