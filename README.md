@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3731-find-missing-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3678-design-task-manager) |
 | [3714-longest-balanced-substring-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3714-longest-balanced-substring-ii) |
+| [3731-find-missing-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -1545,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
