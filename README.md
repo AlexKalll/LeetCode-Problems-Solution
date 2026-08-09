@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1033-broken-calculator) |
+| [1140-stone-game-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1095-two-city-scheduling) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1140-stone-game-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1140-stone-game-ii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1168-duplicate-zeros](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1168-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1200-minimum-absolute-difference) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1140-stone-game-ii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1143,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1020-longest-turbulent-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -1763,6 +1767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1406-stone-game-iii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3462-vowels-game-in-a-string) |
@@ -2610,9 +2615,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
