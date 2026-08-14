@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -1078,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3055-maximum-odd-binary-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -2007,6 +2009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
