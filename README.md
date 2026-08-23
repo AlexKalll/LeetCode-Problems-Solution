@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1927-sum-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1873-longest-nice-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1927-sum-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
@@ -1802,6 +1804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1563-stone-game-v) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1927-sum-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3462-vowels-game-in-a-string) |
 ## Merge Sort
@@ -1875,6 +1878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1927-sum-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2029-stone-game-ix) |
