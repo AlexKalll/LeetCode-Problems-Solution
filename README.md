@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1925-count-square-sum-triples) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1783-ways-to-make-a-fair-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1871-jump-game-vii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -1194,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1804,6 +1808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1563-stone-game-v) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1872-stone-game-viii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3462-vowels-game-in-a-string) |
@@ -2664,6 +2669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -2671,6 +2677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
