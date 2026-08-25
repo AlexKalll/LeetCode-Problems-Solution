@@ -682,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3678-design-task-manager) |
 | [3714-longest-balanced-substring-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3714-longest-balanced-substring-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
