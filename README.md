@@ -1028,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0609-find-duplicate-file-in-system) |
 | [0657-robot-return-to-origin](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1204,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0799-champagne-tower) |
@@ -1310,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0456-132-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0943-sum-of-subarray-minimums) |
@@ -1909,6 +1912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0757-set-intersection-size-at-least-two](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0759-set-intersection-size-at-least-two) |
@@ -2771,6 +2775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
