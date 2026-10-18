@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1563-stone-game-v](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1582-design-browser-history) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1686,6 +1689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0948-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1772-create-sorted-array-through-instructions](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1772-create-sorted-array-through-instructions) |
 | [1873-longest-nice-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1873-longest-nice-substring) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2280-count-good-triplets-in-an-array) |
@@ -2292,6 +2296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -2464,6 +2469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Graph
@@ -2587,6 +2593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union Find
 |  |
 | ------- |
@@ -2626,6 +2633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -2706,6 +2714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -2772,6 +2781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2573-find-the-string-with-lcp) |
@@ -2818,4 +2828,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
