@@ -1202,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3797-design-spreadsheet](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
