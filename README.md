@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0475-heaters) |
@@ -1590,6 +1592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/0611-valid-triangle-number) |
