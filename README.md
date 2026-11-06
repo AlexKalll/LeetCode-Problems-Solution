@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2737-row-with-maximum-ones) |
+| [2747-count-zero-request-servers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -884,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1669,6 +1671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2747-count-zero-request-servers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -2188,6 +2191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2747-count-zero-request-servers) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
