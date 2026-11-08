@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -1429,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1523,6 +1525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1036-rotting-oranges) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1254-number-of-closed-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -2400,6 +2403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -2468,6 +2472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1254-number-of-closed-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -2839,6 +2844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
