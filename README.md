@@ -651,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3430-count-days-without-meetings](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3433-count-mentions-per-user) |
@@ -1394,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2751-robot-collisions](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2751-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3447-clear-digits) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1418,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3827-implement-router) |
@@ -2211,6 +2214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3483-alternating-groups-ii) |
@@ -2585,6 +2589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Ordered Set
 |  |
@@ -2650,6 +2655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Binary Search Tree
 |  |
@@ -2776,6 +2782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3454-separate-squares-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AlexKalll/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
