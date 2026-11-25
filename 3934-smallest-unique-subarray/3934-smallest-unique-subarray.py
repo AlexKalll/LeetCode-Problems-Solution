@@ -1,0 +1,93 @@
+class Solution:
+    def smallestUniqueSubarray(self, nums: List[int]) -> int:
+        n = len(nums)
+
+        # Coordinate compression
+        vals = {v: i + 1 for i, v in enumerate(sorted(set(nums)))}
+        a = [vals[x] for x in nums] + [0]
+
+        # Build suffix array using counting sort
+        m = n + 1
+        p = sorted(range(m), key=lambda i: a[i])
+
+        c = [0] * m
+        for i in range(1, m):
+            c[p[i]] = c[p[i - 1]] + (a[p[i]] != a[p[i - 1]])
+
+        k = 1
+        while k < m:
+            pn = [(x - k) % m for x in p]
+
+            count = [0] * m
+            for x in pn:
+                count[c[x]] += 1
+
+            for i in range(1, m):
+                count[i] += count[i - 1]
+
+            new_p = [0] * m
+            for x in reversed(pn):
+                cl = c[x]
+                count[cl] -= 1
+                new_p[count[cl]] = x
+
+            p = new_p
+
+            new_c = [0] * m
+            classes = 0
+
+            for i in range(1, m):
+                cur = p[i]
+                prev = p[i - 1]
+
+                if (c[cur], c[(cur + k) % m]) != \
+                   (c[prev], c[(prev + k) % m]):
+                    classes += 1
+
+                new_c[cur] = classes
+
+            c = new_c
+            k *= 2
+
+        sa = p[1:]  # Remove sentinel suffix
+
+        # Build inverse suffix array
+        rank = [0] * n
+        for i, pos in enumerate(sa):
+            rank[pos] = i
+
+        # Kasai's algorithm: construct LCP array
+        lcp = [0] * n
+        h = 0
+
+        for i in range(n):
+            r = rank[i]
+
+            if r == 0:
+                continue
+
+            j = sa[r - 1]
+
+            while i + h < n and j + h < n and nums[i + h] == nums[j + h]:
+                h += 1
+
+            lcp[r] = h
+
+            if h:
+                h -= 1
+
+        # Find shortest unique prefix among all suffixes
+        ans = n
+
+        for r in range(n):
+            best = lcp[r]
+
+            if r + 1 < n:
+                best = max(best, lcp[r + 1])
+
+            start = sa[r]
+
+            if best < n - start:
+                ans = min(ans, best + 1)
+
+        return ans
